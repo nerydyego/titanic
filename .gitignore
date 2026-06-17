@@ -11,6 +11,9 @@ ipython_config.py
 # Jupyter lab virtual documents
 # https://jupyterlab-lsp.readthedocs.io/en/2.x/Configuring.html#virtual_documents_dir
 .virtual_documents/
+hipotese/
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
+# pyproject.toml
+titanic.egg-info
