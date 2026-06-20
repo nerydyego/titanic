@@ -1,3 +1,5 @@
+from operator import sub
+
 import pandas as pd
 
 def transformar_sexo(valor):
@@ -5,4 +7,5 @@ def transformar_sexo(valor):
         return 1
     else:
         return 0
+        
         
