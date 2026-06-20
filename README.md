@@ -28,9 +28,6 @@ titanic/
 │   ├── test.csv
 │   └── gender_submission.csv
 │
-├── hipotese/
-│   └── dicionario.md
-│
 ├── notebook/
 │   └── analise.ipynb
 │
@@ -41,6 +38,7 @@ titanic/
 │
 ├── submission/
 │
+├── requirement.txt
 ├── pyproject.toml
 ├── README.md
 └── .gitignore
